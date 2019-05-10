@@ -59,8 +59,7 @@ p{
 
 h1,h2,h3,h4,h5,h6{
     margin-bottom: 10px;
-    
-    
+      
 }
 
 ul,ol{
@@ -68,22 +67,33 @@ ul,ol{
     margin-bottom= 20px;
 }
 
-img{
-    display=block;
-    
-}
 
 .tm-content{
-    margin-top=30px;
-    margin-bottom=30px;
+    margin-top:30px;
+    margin-bottom:30px;
 }
 
 .tm-artivle{
-    background=#fff;
-    padding=30px;
+    background:#fff;
+    padding:30px;
 }
 
 body{
     background-color: paleturquoise;
 }
 
+
+
+
+.LyanImages {
+    display: inline-block;
+    padding: 50px;
+}
+
+.LyanDiv {
+    text-align: center;
+}
+
+.Title {
+    text-align: center;
+}

@@ -1,12 +1,11 @@
-*{
-    margin:0;
-    padding: 0;
-    font-family: 'Open Sans', sans-serif;
-}
 
 body{
-    background: #eeeeee;
+    background-color: paleturquoise;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
+    
 
 .tm-container{
     max-width: 1200px;
@@ -55,6 +54,7 @@ body{
 
 p{
     margin-bottom: 20px;
+    
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -78,12 +78,6 @@ ul,ol{
     padding:30px;
 }
 
-body{
-    background-color: paleturquoise;
-}
-
-
-
 
 .LyanImages {
     display: inline-block;
@@ -95,5 +89,11 @@ body{
 }
 
 .Title {
+    text-align: center;
+}
+
+
+
+.LanaDiv {
     text-align: center;
 }

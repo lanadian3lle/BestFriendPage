@@ -97,3 +97,7 @@ ul,ol{
 .LanaDiv {
     text-align: center;
 }
+
+.contacts {
+    float:left;
+}

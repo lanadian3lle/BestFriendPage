@@ -101,3 +101,24 @@ ul,ol{
 .contacts {
     float:left;
 }
+
+.PhoneNumber {
+    float: right;
+}
+
+.Lyan {
+    float: left;
+}
+
+
+.Written {
+    text-align: center; 
+}
+
+.written {
+    text-align: center;
+}
+
+div {
+    
+}
